@@ -8,7 +8,7 @@ Phone: 1 (212) 998-3280<br>
 E-mail: [teseo.schneider@nyu.edu](mailto:teseo.schneider@nyu.edu)<br>
 URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
-**Office Hours**: Thursdays, 2:15pm-3:15pm 60 5th Ave, 5th Floor, Office 524
+**Office Hours**: Thursdays, 2:15pm-3:15pm 60 5th Ave, 5th Floor, Office 524<br>
 **Tutoring**: 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-2018/blob/master/material/Fall2018Tutors.pdf)
 
 ### Lectures:
