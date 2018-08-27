@@ -9,7 +9,7 @@ E-mail: [teseo.schneider@nyu.edu](mailto:teseo.schneider@nyu.edu)<br>
 URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 **Office Hours**: Thursdays, 2:15pm-3:15pm 60 5th Ave, 5th Floor, Office 524
-**Tutoring**: 60 Washington Square South, 4th Floor [schedule](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/Fall2018Tutors.pdf)
+**Tutoring**: 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-2018/blob/master/material/Fall2018Tutors.pdf)
 
 ### Lectures:
 Tuesdays and Thursdays at 3:30pm - 4:45pm<br>
@@ -30,7 +30,7 @@ CIWW room 512
 
 
 ### Grading
- - Assignments: 10% (Late assignments count 70%)
+ - Assignments: 10% (late assignments count 70%)
  - Project: 10%
  - In class participation: 5%
  - Midterms: 20% each
