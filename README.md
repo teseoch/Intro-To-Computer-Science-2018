@@ -52,7 +52,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 ### Misc
 
 - [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-- [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started.pdf)
+- [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/getting_started.pdf)
 <!-- - [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started_processing.pdf) -->
 <!-- - [Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/processing.zip) -->
 
