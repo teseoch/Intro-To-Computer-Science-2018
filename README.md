@@ -24,7 +24,7 @@ CIWW room 512
 ### Textbook
 
 > **Introduction to JAVA programming**<br>
-> Brief version, 10th edition<br>
+> Brief version, 11th edition<br>
 > Y. Daniel Liang<br>
 > ISBN: 0-13-359220-0
 
