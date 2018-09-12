@@ -13,8 +13,9 @@ URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 ### Lectures:
 Tuesdays and Thursdays at 3:30pm - 4:45pm<br>
-Washington Square
-CIWW room 512
+Silver Center for Arts & Science,
+100 Washington Sq East,
+Room 411
 
 ### Final exam
 
