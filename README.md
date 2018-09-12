@@ -59,7 +59,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 ### Slides
 - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture1-welcome.pdf)
 - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture2-intro.pdf)
-<!-- - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture3.pdf) -->
+- [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture2-math.pdf)
 <!-- - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture5.pdf) -->
 <!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture7.pdf) -->
 <!-- - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture8.pdf) -->
@@ -79,7 +79,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|----|----|
 | 01 | 09/04/2018 | Introduction to computers, programs and Java, command line basics | 1 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture1-welcome.pdf) |
 | 02 | 09/06/2018 | Primitive data types, program structure, control flow, input/output| 2-3 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture2-intro.pdf) [Example](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/Input.java) |
-| 03 | 09/11/2018 | Mathematical functions, characters, strings, looping| 4-5 ||
+| 03 | 09/11/2018 | Mathematical functions, characters, strings, looping| 4-5 |[Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture2-math.pdf)|
 |    | 09/13/2018 | Hands on | ||
 | 04 | 09/18/2018 | Methods | 6 | |
 | 05 | 09/20/2018 | Methods | 6 | |
