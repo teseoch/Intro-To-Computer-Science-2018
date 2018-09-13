@@ -81,7 +81,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 01 | 09/04/2018 | Introduction to computers, programs and Java, command line basics | 1 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture1-welcome.pdf) |
 | 02 | 09/06/2018 | Primitive data types, program structure, control flow, input/output| 2-3 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture2-intro.pdf) [Example](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/Input.java) |
 | 03 | 09/11/2018 | Mathematical functions, characters, strings, looping| 4-5 |[Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture3-math.pdf)|
-|    | 09/13/2018 | Hands on | ||
+|    | 09/13/2018 | Hands on | | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson1.pdf) |
 | 04 | 09/18/2018 | Methods | 6 | |
 | 05 | 09/20/2018 | Methods | 6 | |
 | 06 | 09/25/2018 | Single dimensional arrays | 7 | |
@@ -120,7 +120,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ## Hands on activities
 | Number | Date | Material |
 |----|----|----|
-| 01 | 09/13/2018 | |
+| 01 | 09/13/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson1.pdf) [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/Triangle.java) [MC Pi](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/PIMT.java)|
 | 02 | 09/02/2018 | |
 | 03 | 10/16/2018 | |
 | 04 | 10/25/2018 | |
@@ -132,7 +132,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Number | Date | Due date| link |
 |----|----|----|----|
-| 01 | 09/06/2018 | 11/09/2018 | [Assignment 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment1.pdf)|
+| 01 | 09/06/2018 | 09/11/2018 | [Assignment 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment1.pdf)|
+| 02 | 09/13/2018 | 09/18/2018 | [Assignment 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment2.pdf)|
 <!-- | 02 | 02/08/2018 | 02/20/2018 | | -->
 <!-- | 03 | 03/09/2018 | 03/22/2018 | | -->
 <!-- | 04 | 03/22/2018 | 03/29/2018 | | -->
