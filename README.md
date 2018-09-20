@@ -61,7 +61,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture1-welcome.pdf)
 - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture2-intro.pdf)
 - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture3-math.pdf)
-<!-- - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture5.pdf) -->
+- [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture4-methods.pdf)
 <!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture7.pdf) -->
 <!-- - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture8.pdf) -->
 <!-- - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture14.pdf) -->
@@ -82,8 +82,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 02 | 09/06/2018 | Primitive data types, program structure, control flow, input/output| 2-3 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture2-intro.pdf) [Example](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/Input.java) |
 | 03 | 09/11/2018 | Mathematical functions, characters, strings, looping| 4-5 |[Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture3-math.pdf)|
 |    | 09/13/2018 | Hands on | | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson1.pdf) |
-| 04 | 09/18/2018 | Methods | 6 | |
-| 05 | 09/20/2018 | Methods | 6 | |
+| 04 | 09/18/2018 | Methods | 6 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture4-methods.pdf) |
+| 05 | 09/20/2018 | Methods | 6 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture4-methods.pdf) |
 | 06 | 09/25/2018 | Single dimensional arrays | 7 | |
 | 07 | 09/27/2018 | Two dimensional arrays | 8 | |
 |    | 09/02/2018 | Hands on | ||
@@ -134,6 +134,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|----|
 | 01 | 09/06/2018 | 09/11/2018 | [Assignment 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment1.pdf)|
 | 02 | 09/13/2018 | 09/18/2018 | [Assignment 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment2.pdf)|
+| 02 | 09/20/2018 | 09/25/2018 | [Assignment 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment3.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment3.txt)|
 <!-- | 02 | 02/08/2018 | 02/20/2018 | | -->
 <!-- | 03 | 03/09/2018 | 03/22/2018 | | -->
 <!-- | 04 | 03/22/2018 | 03/29/2018 | | -->
