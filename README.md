@@ -87,7 +87,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 06 | 09/25/2018 | Single dimensional arrays | 7 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture5-arrays.pdf) |
 | 07 | 09/27/2018 | Two dimensional arrays | 8 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture6-ndarrays.pdf) |
 |    | 09/02/2018 | Hands on | ||
-| 08 | 10/09/2018 | Midterm 1 review | 1-8 | |
+| 08 | 10/04/2018 | Midterm 1 review | 1-8 | |
 | 09 | 10/11/2018 | Midterm 1 |  | |
 
 ### Part 2: Object oriented programming and design
