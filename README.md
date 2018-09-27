@@ -62,8 +62,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture2-intro.pdf)
 - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture3-math.pdf)
 - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture4-methods.pdf)
-<!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture7.pdf) -->
-<!-- - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture8.pdf) -->
+- [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture5-arrays.pdf)
+- [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture6-ndarrays.pdf)
 <!-- - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture14.pdf) -->
 <!-- - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture15.pdf) -->
 <!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture16.pdf) -->
@@ -84,8 +84,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 |    | 09/13/2018 | Hands on | | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson1.pdf) |
 | 04 | 09/18/2018 | Methods | 6 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture4-methods.pdf) |
 | 05 | 09/20/2018 | Methods | 6 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture4-methods.pdf) |
-| 06 | 09/25/2018 | Single dimensional arrays | 7 | |
-| 07 | 09/27/2018 | Two dimensional arrays | 8 | |
+| 06 | 09/25/2018 | Single dimensional arrays | 7 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture5-arrays.pdf) |
+| 07 | 09/27/2018 | Two dimensional arrays | 8 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture6-ndarrays.pdf) |
 |    | 09/02/2018 | Hands on | ||
 | 08 | 10/09/2018 | Midterm 1 review | 1-8 | |
 | 09 | 10/11/2018 | Midterm 1 |  | |
@@ -134,15 +134,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|----|
 | 01 | 09/06/2018 | 09/11/2018 | [Assignment 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment1.pdf)|
 | 02 | 09/13/2018 | 09/18/2018 | [Assignment 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment2.pdf)|
-| 02 | 09/20/2018 | 09/25/2018 | [Assignment 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment3.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment3.txt)|
-<!-- | 02 | 02/08/2018 | 02/20/2018 | | -->
-<!-- | 03 | 03/09/2018 | 03/22/2018 | | -->
-<!-- | 04 | 03/22/2018 | 03/29/2018 | | -->
-<!-- | 05 | 03/29/2018 | 04/03/2018 | | -->
-<!-- | 06 | 04/03/2018 | 04/10/2018 | | -->
-<!-- | project | 04/10/2018 | 04/24/2018 | | -->
-<!-- | 07 | 04/24/2018 | 05/01/2018 | | -->
-<!-- | 08 (bonus) | 04/01/2018 | 05/08/2018 | | -->
+| 03 | 09/20/2018 | 09/25/2018 | [Assignment 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment3.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment3.txt)|
+| 04 | 09/27/2018 | 10/04/2018 | [Assignment 4](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment4.pdf) |
+
 
 
 
