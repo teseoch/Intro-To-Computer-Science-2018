@@ -86,7 +86,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 05 | 09/20/2018 | Methods | 6 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture4-methods.pdf) |
 | 06 | 09/25/2018 | Single dimensional arrays | 7 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture5-arrays.pdf) |
 | 07 | 09/27/2018 | Two dimensional arrays | 8 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture6-ndarrays.pdf) |
-|    | 09/02/2018 | Hands on | ||
+|    | 09/02/2018 | Hands on | | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson2.pdf) |
 | 08 | 10/04/2018 | Midterm 1 review | 1-8 | |
 | 09 | 10/11/2018 | Midterm 1 |  | |
 
@@ -121,7 +121,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Number | Date | Material |
 |----|----|----|
 | 01 | 09/13/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson1.pdf) [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/Triangle.java) [MC Pi](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/PIMT.java)|
-| 02 | 09/02/2018 | |
+| 02 | 09/02/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson2.pdf) [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GameOfLife.java)|
 | 03 | 10/16/2018 | |
 | 04 | 10/25/2018 | |
 | 05 | 11/13/2018 | |
