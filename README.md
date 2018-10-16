@@ -54,6 +54,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 
 - [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/getting_started.pdf)
+- [Eclipse](https://www.eclipse.org/)
 <!-- - [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/getting_started_processing.pdf) -->
 <!-- - [Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/processing.zip) -->
 
@@ -93,7 +94,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 2: Object oriented programming and design
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-|    | 10/16/2018 | Hands on | ||
+|    | 10/16/2018 | Hands on | | [Eclipse](https://www.eclipse.org/) |
 | 10 | 10/18/2018 | Midterm discussion, objects and classes | 9 | |
 | 11 | 10/23/2018 | Objects and classes | 9 | |
 |    | 10/25/2018 | Hands on | ||
