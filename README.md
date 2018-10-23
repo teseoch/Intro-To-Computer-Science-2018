@@ -96,9 +96,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|----|----|
 |    | 10/16/2018 | Hands on | | [Eclipse](https://www.eclipse.org/) |
 | 10 | 10/18/2018 | Objects and classes | 9 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture7-objects.pdf) |
-|    | 10/23/2018 | Hands on |  | |
-| 11 | 10/25/2018 | Objects and classes | ||
-| 12 | 10/30/2018 | Object oriented thinking | 10 | |
+|    | 10/23/2018 | Hands on |  | [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOL.zip) |
+| 11 | 10/25/2018 | Object oriented thinking | 10 ||
+| 12 | 10/30/2018 | Midterm discussion | | |
 | 13 | 11/01/2018 | Object oriented thinking | 10 | |
 | 14 | 11/06/2018 | Midterm 2 review | 1-10 | |
 | 15 | 11/08/2018 | Midterm 2 | | |
@@ -123,7 +123,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|
 | 01 | 09/13/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson1.pdf) [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/Triangle.java) [MC Pi](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/PIMT.java)|
 | 02 | 09/02/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson2.pdf) [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GameOfLife.java)|
-| 03 | 10/16/2018 | |
+| 03 | 10/16/2018 | [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOL.zip) |
 | 04 | 10/25/2018 | |
 | 05 | 11/13/2018 | |
 | 06 | 12/04/2018 | |
