@@ -66,7 +66,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture7-objects.pdf)
-<!-- - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture15.pdf) -->
+- [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture8-thinkingoo.pdf)
 <!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture16.pdf) -->
 <!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture17.pdf) -->
 <!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture18.pdf) -->
@@ -98,8 +98,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 10 | 10/18/2018 | Objects and classes | 9 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture7-objects.pdf) |
 |    | 10/23/2018 | Hands on |  | [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOL.zip) |
 | 11 | 10/25/2018 | Midterm discussion | | |
-| 12 | 10/30/2018 | Object oriented thinking | 10 | |
-| 13 | 11/01/2018 | Object oriented thinking | 10 | |
+| 12 | 10/30/2018 | Object oriented thinking | 10 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture8-thinkingoo.pdf) |
+| 13 | 11/01/2018 | Object oriented thinking | 10 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture8-thinkingoo.pdf) |
 | 14 | 11/06/2018 | Midterm 2 review | 1-10 | |
 | 15 | 11/08/2018 | Midterm 2 | | |
 
@@ -137,8 +137,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 02 | 09/13/2018 | 09/18/2018 | [Assignment 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment2.pdf)|
 | 03 | 09/20/2018 | 09/25/2018 | [Assignment 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment3.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment3.txt)|
 | 04 | 09/27/2018 | 10/04/2018 | [Assignment 4](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment4.pdf) |
-| 04 | 10/18/2018 | 10/23/2018 | [Assignment 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment5.pdf) |
-| 04 | 10/25/2018 | 10/30/2018 | [Assignment 6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment6.pdf) |
+| 05 | 10/18/2018 | 10/23/2018 | [Assignment 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment5.pdf) |
+| 06 | 10/25/2018 | 10/30/2018 | [Assignment 6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment6.pdf) |
+| 07 | 11/06/2018 | 11/08/2018 | [Assignment 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment7.pdf) |
 
 
 
