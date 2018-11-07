@@ -1,4 +1,4 @@
-# Intro to computer science, CSCI-UA.0101-002 Spring 2018
+# Intro to computer science, CSCI-UA.0101-003 Fall 2018
 
 ## Course Information
 ### Course Instructor
