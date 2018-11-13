@@ -55,8 +55,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/getting_started.pdf)
 - [Eclipse](https://www.eclipse.org/)
-<!-- - [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/getting_started_processing.pdf) -->
-<!-- - [Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/processing.zip) -->
+- [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/getting_started_processing.pdf)
+- [Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/core.jar.zip)
 
 ### Slides
 - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture1-welcome.pdf)
@@ -123,8 +123,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|
 | 01 | 09/13/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson1.pdf) [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/Triangle.java) [MC Pi](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/PIMT.java)|
 | 02 | 09/02/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson2.pdf) [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GameOfLife.java)|
-| 03 | 10/16/2018 | [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOL.zip) |
-| 04 | 10/25/2018 | |
+| 03 | 10/16/2018 | [Eclipse](https://www.eclipse.org/) |
+| 04 | 10/23/2018 | [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOL.zip)|
 | 05 | 11/13/2018 | |
 | 06 | 12/04/2018 | |
 
