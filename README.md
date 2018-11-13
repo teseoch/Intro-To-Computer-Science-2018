@@ -107,9 +107,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-|    | 11/13/2018 | Hands on | ||
+|    | 11/13/2018 | Hands on | | [Game of Life Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOLProcessing.zip) |
 | 16 | 11/15/2018 | Inheritance and polymorphism | 11 | |
-| 17 | 11/20/2018 | Inheritance and polymorphism and midterm discussion | 11 | |
+| 17 | 11/20/2018 | Midterm discussion |  | |
 | 18 | 11/27/2018 | Abstract classes and interfaces | 13 | |
 | 19 | 11/29/2018 | Abstract classes and interfaces | 13 | |
 |    | 12/04/2018 | Hands on | ||
@@ -125,7 +125,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 02 | 09/02/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/handson2.pdf) [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GameOfLife.java)|
 | 03 | 10/16/2018 | [Eclipse](https://www.eclipse.org/) |
 | 04 | 10/23/2018 | [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOL.zip)|
-| 05 | 11/13/2018 | |
+| 05 | 11/13/2018 | [Game of Life Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOLProcessing.zip)|
 | 06 | 12/04/2018 | |
 
 
@@ -140,6 +140,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 05 | 10/18/2018 | 10/23/2018 | [Assignment 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment5.pdf) |
 | 06 | 10/25/2018 | 10/30/2018 | [Assignment 6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment6.pdf) |
 | 07 | 11/06/2018 | 11/08/2018 | [Assignment 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment7.pdf) |
+| 07 | 11/13/2018 | 11/20/2018 | [Assignment 8](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment8.pdf) |
 
 
 
