@@ -67,8 +67,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture7-objects.pdf)
 - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture8-thinkingoo.pdf)
-<!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture16.pdf) -->
-<!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture17.pdf) -->
+- [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture9-polymorphism.pdf)
+- [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture10-interfaces.pdf)
 <!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture18.pdf) -->
 
 
@@ -108,14 +108,14 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
 |    | 11/13/2018 | Hands on | | [Game of Life Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOLProcessing.zip) |
-| 16 | 11/15/2018 | Inheritance and polymorphism | 11 | |
+| 16 | 11/15/2018 | Inheritance and polymorphism | 11 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture9-polymorphism.pdf) |
 | 17 | 11/20/2018 | Midterm discussion |  | |
-| 18 | 11/27/2018 | Abstract classes and interfaces | 13 | |
-| 19 | 11/29/2018 | Abstract classes and interfaces | 13 | |
-|    | 12/04/2018 | Hands on | ||
-| 20 | 12/07/2018 | Exception handling and text I/O | 12 | |
+| 18 | 11/27/2018 | Inheritance and polymorphism | 11 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture9-polymorphism.pdf) |
+| 19 | 11/29/2018 | Abstract classes and interfaces | 13 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture10-interfaces.pdf) |
+|    | 12/04/2018 | No class | ||
+| 20 | 12/06/2018 | Exception handling and text I/O | 12 | |
 | 21 | 12/11/2018 | Exception handling and text I/O | 12 | |
-| 22 | 12/13/2018 | Review for the final exam | 1-13, 18 | |
+| 22 | 12/13/2018 | Review for the final exam | 1-13 | |
 
 
 ## Hands on activities
