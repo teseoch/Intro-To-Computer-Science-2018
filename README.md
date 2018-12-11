@@ -69,7 +69,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture9-polymorphism.pdf)
 - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture10-interfaces.pdf)
-<!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture18.pdf) -->
+- [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture11-exception-IO.pdf)
 
 
 ## Schedule and Course Notes:
@@ -113,8 +113,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 18 | 11/27/2018 | Inheritance and polymorphism | 11 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture9-polymorphism.pdf) |
 | 19 | 11/29/2018 | Abstract classes and interfaces | 13 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture10-interfaces.pdf) |
 |    | 12/04/2018 | No class | ||
-| 20 | 12/06/2018 | Exception handling and text I/O | 12 | |
-| 21 | 12/11/2018 | Exception handling and text I/O | 12 | |
+| 20 | 12/06/2018 | Exception handling and text I/O | 12 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture11-exception-IO.pdf)|
+| 21 | 12/11/2018 | Exception handling and text I/O | 12 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture11-exception-IO.pdf)|
 | 22 | 12/13/2018 | Review for the final exam | 1-13 | |
 
 
@@ -126,7 +126,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 03 | 10/16/2018 | [Eclipse](https://www.eclipse.org/) |
 | 04 | 10/23/2018 | [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOL.zip)|
 | 05 | 11/13/2018 | [Game of Life Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/GOLProcessing.zip)|
-| 06 | 12/04/2018 | |
+
 
 
 ## Assignments
@@ -142,6 +142,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 07 | 11/06/2018 | 11/08/2018 | [Assignment 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment7.pdf) |
 | 08 | 11/13/2018 | 11/20/2018 | [Assignment 8](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment8.pdf) |
 | Project | 11/24/2018 | 12/11/2018 | [Project](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Project.pdf) |
+| 09 (Bonus) | 12/11/2018 | 12/20/2018 | [Assignment 9](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/assignments/Assignment9.pdf) |
 
 
 
