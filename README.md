@@ -19,7 +19,7 @@ Room 411
 
 ### Final exam
 
-> December 20th (12/20/2018) at 4:00-5:50PM, room 317
+> December 20th (12/20/2018) at 4:00-5:50PM, Silver 411
 
 
 ### Textbook
